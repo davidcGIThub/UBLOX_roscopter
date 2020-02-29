@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -std=c++17  -shared -Wl,-soname,libgtest.so -o libgtest.so CMakeFiles/gtest.dir/src/gtest-all.cc.o  -L/home/groot/roscop_ws/src/UBLOX_read/build/gtest/googlemock/gtest/src -Wl,-rpath,/home/groot/roscop_ws/src/UBLOX_read/build/gtest/googlemock/gtest/src -lpthread 

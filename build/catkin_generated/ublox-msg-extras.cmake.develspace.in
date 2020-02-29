@@ -1,0 +1,2 @@
+set(ublox_MESSAGE_FILES "/home/groot/roscop_ws/src/UBLOX_read/msg/PosVelEcef.msg;/home/groot/roscop_ws/src/UBLOX_read/msg/PositionVelocityTime.msg;/home/groot/roscop_ws/src/UBLOX_read/msg/RelPos.msg;/home/groot/roscop_ws/src/UBLOX_read/msg/SurveyStatus.msg;/home/groot/roscop_ws/src/UBLOX_read/msg/Ephemeris.msg;/home/groot/roscop_ws/src/UBLOX_read/msg/GlonassEphemeris.msg;/home/groot/roscop_ws/src/UBLOX_read/msg/Observation.msg;/home/groot/roscop_ws/src/UBLOX_read/msg/ObsVec.msg")
+set(ublox_SERVICE_FILES "")

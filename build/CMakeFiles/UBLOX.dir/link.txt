@@ -1,0 +1,2 @@
+/usr/bin/ar qc libUBLOX.a  CMakeFiles/UBLOX.dir/src/ublox.cpp.o CMakeFiles/UBLOX.dir/src/parsers/ubx.cpp.o CMakeFiles/UBLOX.dir/src/parsers/rtcm.cpp.o CMakeFiles/UBLOX.dir/src/parsers/nmea.cpp.o CMakeFiles/UBLOX.dir/src/parsers/nav.cpp.o CMakeFiles/UBLOX.dir/src/utctime.cpp.o
+/usr/bin/ranlib libUBLOX.a

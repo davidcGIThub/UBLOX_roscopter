@@ -1,0 +1,8 @@
+prefix=/home/groot/roscop_ws/src/UBLOX_read/build/devel
+
+Name: ublox
+Description: Description of ublox
+Version: 1.0.0
+Cflags: -I/home/groot/roscop_ws/src/UBLOX_read/build/devel/include -I/home/groot/roscop_ws/src/UBLOX_read/include
+Libs: -L/home/groot/roscop_ws/src/UBLOX_read/build/devel/lib -lUBLOX
+Requires: std_msgs

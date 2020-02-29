@@ -1,0 +1,21 @@
+(cl:defpackage ublox-msg
+  (:use )
+  (:export
+   "<EPHEMERIS>"
+   "EPHEMERIS"
+   "<GLONASSEPHEMERIS>"
+   "GLONASSEPHEMERIS"
+   "<OBSVEC>"
+   "OBSVEC"
+   "<OBSERVATION>"
+   "OBSERVATION"
+   "<POSVELECEF>"
+   "POSVELECEF"
+   "<POSITIONVELOCITYTIME>"
+   "POSITIONVELOCITYTIME"
+   "<RELPOS>"
+   "RELPOS"
+   "<SURVEYSTATUS>"
+   "SURVEYSTATUS"
+  ))
+

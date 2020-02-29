@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -D_FILE_OFFSET_BITS=64  -rdynamic CMakeFiles/read.dir/src/examples/read.cpp.o  -o read -Wl,-rpath,/home/groot/roscop_ws/src/UBLOX_read/build/lib/async_comm libUBLOX.a lib/async_comm/libasync_comm.so -lboost_system -lpthread 
